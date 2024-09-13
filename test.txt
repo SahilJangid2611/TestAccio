@@ -1,1 +1,3 @@
 erfedsklfodsklnf;dsklngvlsdkngvkdflg
+
+I am adding a new line in the folder to explain abput git statuws command
